@@ -1,0 +1,6 @@
+This directory should contain go 1.6 binaries:
+cover.exe
+go-bindata.exe
+gocyclo.exe
+golint.exe
+gox.exe
