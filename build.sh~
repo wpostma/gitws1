@@ -1,0 +1,5 @@
+#!/bin/sh
+cd src/gitlab.com/gitlab-org/gitlab-ci-multi-runner
+make deps
+go build
+
